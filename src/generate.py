@@ -1,7 +1,7 @@
 from notdiamond import LLMConfig, NotDiamond
 from langchain_core.prompts import ChatPromptTemplate
 
-from prompts import RACIAL_BIAS_SYSTEM_PROMPT
+from src.prompts import RACIAL_BIAS_SYSTEM_PROMPT
 
 def detect_bias(text: str, model_str: str) -> str:
     ndllm = LLMConfig.from_string(model_str)
