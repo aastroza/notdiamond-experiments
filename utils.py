@@ -6,4 +6,4 @@ def extract_response(s):
         if d == '0' or d == '1':
             return int(d)
     
-    return 'Not valid'
+    return -1
