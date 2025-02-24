@@ -1,0 +1,8 @@
+provider,test,train
+anthropic/claude-3-5-sonnet-20241022,0,0
+google/gemini-1.5-pro-latest,5,19
+mistral/mistral-large-2407,6,16
+openai/gpt-4o-2024-08-06,7,19
+openai/gpt-4o-mini-2024-07-18,6,16
+perplexity/sonar,6,15
+togetherai/DeepSeek-R1,6,18
