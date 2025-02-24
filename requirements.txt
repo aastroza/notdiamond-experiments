@@ -1,0 +1,5 @@
+notdiamond[create]==0.3.38
+pandas
+jupyter
+python-dotenv
+loguru
